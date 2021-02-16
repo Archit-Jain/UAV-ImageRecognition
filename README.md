@@ -1,6 +1,6 @@
-# UAVImageRecognization
+# UAVImageRecognition
 
-Program is designed and developed to take the images from the on board camera and processing unit.
+Program is designed and developed to take the images from the on board camera and processing unit of a drone or a UAV.
 The on board camera pi camera is attached to the raspbeery pi to read, capture and process and send the data to ground station from the UAV.
 
 To use
