@@ -1,4 +1,7 @@
-# RaspiNodeCamUSB
+# UAVImageRecognization
+
+Program is designed and developed to take the images from the on board camera and processing unit.
+The on board camera pi camera is attached to the raspbeery pi to read, capture and process and send the data to ground station from the UAV.
 
 To use
 Clone the repo into raspberry pi and connect a camera
@@ -21,4 +24,4 @@ http://rapiIP:3000/camera
 
 This will return the image from camera 
 
-Cheers !
+
